@@ -690,7 +690,7 @@ ul.simplefilter {
 .team-caption ul li a i.fa.fa-instagram:hover {
   background: #e4405f;
 }
-.team-caption ul li a i.fa.fa-twitter {
+.team-caption ul li a i.fa.fa-linkedin {
   height: 30px;
   width: 30px;
   line-height: 30px;
@@ -703,7 +703,7 @@ ul.simplefilter {
   -o-transition: 0.5s all;
   -ms-transition: 0.5s all;
 }
-.team-caption ul li a i.fa.fa-twitter:hover {
+.team-caption ul li a i.fa.fa-linkedin:hover {
   background: #55acee;
 }
 .team-caption ul li a i.fa.fa-rss {
